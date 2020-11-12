@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/botreuz.git"
+    "url": "git+https://github.com/Mr-Cat79/ChatBotwa.git"
   },
   "keywords": [
     "k"
@@ -37,7 +37,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/botreuz/issues"
+    "url": "https://github.com/Mr-Cat79/CharBotwa/issues"
   },
-  "homepage": "https://github.com/benisadewa/botreuz#readme"
+  "homepage": "https://github.com/Mr-Cat79/ChatBotwa#readme"
 }
