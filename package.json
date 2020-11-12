@@ -1,5 +1,5 @@
 {
-  "nama" : "Bot by Mr-Cat"
+  "nama" : " Mr-Cat"
   "version": "1.0.0",
   "description": "bot whatsapp lewat hp doang",
   "main": "index.js",
@@ -25,7 +25,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node index"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
